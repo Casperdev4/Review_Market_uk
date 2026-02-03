@@ -288,6 +288,78 @@
     color: var(--primary);
 }
 
+/* Related Articles */
+.related-articles {
+    padding: 60px 0 80px;
+    background: var(--light);
+}
+
+.related-articles .section-title {
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    color: var(--dark);
+    margin-bottom: 40px;
+}
+
+.related-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.related-card {
+    background: var(--white);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+    transition: var(--transition);
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.related-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow);
+}
+
+.related-image {
+    height: 140px;
+    background: var(--gradient);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.related-placeholder {
+    color: var(--white);
+    font-size: 20px;
+    font-weight: 700;
+    opacity: 0.9;
+}
+
+.related-content {
+    padding: 20px;
+}
+
+.related-content h3 {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--dark);
+    margin-bottom: 8px;
+    line-height: 1.4;
+}
+
+.related-content p {
+    color: var(--gray);
+    font-size: 13px;
+    line-height: 1.6;
+    margin: 0;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     .blog-hero {
@@ -314,5 +386,10 @@
 
     .cta-section h2 {
         font-size: 24px;
+    }
+
+    .related-grid {
+        grid-template-columns: 1fr;
+        max-width: 400px;
     }
 }
