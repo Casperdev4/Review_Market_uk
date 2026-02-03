@@ -1,14 +1,14 @@
 :root {
-    --primary: #e53935;
-    --primary-dark: #c62828;
-    --secondary: #ffc107;
+    --primary: #6366f1;
+    --primary-dark: #4f46e5;
+    --secondary: #a78bfa;
     --dark: #3a3a3a;
     --light: #f8f9fa;
     --white: #ffffff;
     --gray: #4a4a4a;
     --gray-light: #e9ecef;
-    --gradient: linear-gradient(135deg, #e53935 0%, #ffc107 100%);
-    --shadow: 0 10px 40px rgba(229, 57, 53, 0.15);
+    --gradient: linear-gradient(135deg, #4f46e5 0%, #a855f7 100%);
+    --shadow: 0 10px 40px rgba(99, 102, 241, 0.15);
     --shadow-sm: 0 4px 15px rgba(0, 0, 0, 0.08);
     --radius: 12px;
     --radius-lg: 20px;
@@ -72,12 +72,12 @@ img {
 .btn-primary {
     background: var(--gradient);
     color: var(--white);
-    box-shadow: 0 4px 20px rgba(229, 57, 53, 0.35);
+    box-shadow: 0 4px 20px rgba(99, 102, 241, 0.35);
 }
 
 .btn-primary:hover {
     transform: translateY(-3px);
-    box-shadow: 0 8px 30px rgba(229, 57, 53, 0.45);
+    box-shadow: 0 8px 30px rgba(99, 102, 241, 0.45);
 }
 
 .btn-outline {
@@ -259,7 +259,7 @@ img {
 
 .hero {
     padding: 160px 0 100px;
-    background: linear-gradient(180deg, #fff8f8 0%, var(--white) 100%);
+    background: linear-gradient(180deg, #f5f3ff 0%, var(--white) 100%);
     overflow: hidden;
 }
 
@@ -353,7 +353,7 @@ img {
 
 .credibility {
     padding: 100px 0;
-    background: linear-gradient(180deg, var(--white) 0%, #fff8f8 100%);
+    background: linear-gradient(180deg, var(--white) 0%, #f5f3ff 100%);
 }
 
 .credibility .container {
@@ -411,7 +411,7 @@ img {
 
 .how-it-works {
     padding: 100px 0;
-    background: linear-gradient(180deg, var(--white) 0%, #fff8f8 100%);
+    background: linear-gradient(180deg, var(--white) 0%, #f5f3ff 100%);
 }
 
 .section-title {
@@ -595,7 +595,7 @@ img {
 
 .faq {
     padding: 100px 0;
-    background: linear-gradient(180deg, #fff8f8 0%, var(--white) 100%);
+    background: linear-gradient(180deg, #f5f3ff 0%, var(--white) 100%);
 }
 
 .faq-list {
@@ -694,7 +694,7 @@ img {
 
 .blog {
     padding: 100px 0;
-    background: linear-gradient(180deg, var(--white) 0%, #fff8f8 100%);
+    background: linear-gradient(180deg, var(--white) 0%, #f5f3ff 100%);
 }
 
 .blog-grid {
