@@ -1049,15 +1049,6 @@ img {
         font-size: 25px;
     }
 
-    .google-cards {
-        align-items: center;
-    }
-
-    .google-card {
-        margin-left: 0 !important;
-        max-width: 280px;
-    }
-
     .stats .container {
         grid-template-columns: repeat(2, 1fr);
         gap: 15px;
