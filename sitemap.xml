@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://review-market.fr/</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://review-market.fr/image-hero.png</image:loc>
+            <image:caption>Achetez des avis Google positifs pour booster votre reputation en ligne.</image:caption>
+            <image:title>Acheter avis Google positifs</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://review-market.fr/img-left-1-1.webp</image:loc>
+            <image:caption>Gagnez en credibilite sur Google Maps avec des avis clients.</image:caption>
+            <image:title>Credibilite avis Google</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://review-market.fr/style2.webp</image:loc>
+            <image:caption>Attirez plus de clients grace aux avis Google positifs.</image:caption>
+            <image:title>Avis Google clients</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://review-market.fr/logo.png</image:loc>
+            <image:caption>Review Market - Service d'achat d'avis Google.</image:caption>
+            <image:title>Logo Review Market</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://review-market.fr/acheter-avis-negatif-google.html</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://review-market.fr/image-hero.png</image:loc>
+            <image:caption>Achetez des avis Google negatifs pour contrer la concurrence deloyale.</image:caption>
+            <image:title>Acheter avis Google negatifs</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://review-market.fr/supprimer-avis-google.html</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://review-market.fr/image-hero.png</image:loc>
+            <image:caption>Supprimez les avis Google negatifs qui nuisent a votre reputation.</image:caption>
+            <image:title>Supprimer avis Google</image:title>
+        </image:image>
+    </url>
+    <!-- Blog -->
+    <url>
+        <loc>https://review-market.fr/blog/</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://review-market.fr/blog/comment-obtenir-plus-avis-google.html</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://review-market.fr/blog/importance-avis-google-entreprise.html</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://review-market.fr/blog/repondre-avis-negatif-google.html</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>

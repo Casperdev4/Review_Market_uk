@@ -1,0 +1,12 @@
+# Robots.txt pour Review Market
+# https://review-market.fr
+
+User-agent: *
+Allow: /
+
+# Fichiers a ne pas indexer
+Disallow: /*.json$
+Disallow: /logo/
+
+# Sitemap
+Sitemap: https://review-market.fr/sitemap.xml
