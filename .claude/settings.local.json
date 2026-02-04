@@ -11,7 +11,17 @@
       "Bash(git pull:*)",
       "Bash(git checkout:*)",
       "Bash(powershell -command \"Get-Item ''c:\\\\Users\\\\Webpr\\\\Desktop\\\\avis-market\\\\favicon.ico'' | Select-Object Name, Length\")",
-      "Bash(du:*)"
+      "Bash(du:*)",
+      "Bash(ls:*)",
+      "Bash(git rebase:*)",
+      "Bash(cut:*)",
+      "Bash(for class in \"blog-hero\" \"blog-listing\" \"blog-category\" \"article-breadcrumb\" \"article-content\" \"article-cta\" \"article-meta\" \"article-highlight\" \"article-stat\" \"article-stats\" \"related-articles\" \"related-card\" \"related-grid\" \"cta-section\")",
+      "Bash(do grep -q \"\\\\.$class\" /c:/Users/Webpr/Desktop/Mes_Sites/moi/E-Commerce/review-market.uk/blog/blog.css)",
+      "Bash(echo:*)",
+      "Bash(done)",
+      "Bash(curl:*)",
+      "Bash(grep:*)",
+      "WebFetch(domain:review-market.uk)"
     ]
   }
 }
